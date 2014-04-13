@@ -17,12 +17,18 @@ input[type="password"] {
     max-width: 280px;
 }
 
+.icone {
+    position:absolute;
+    z-index: 1;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .jumbotron {
-        margin-top: 20px;
+        margin-top: 50px;
     }
     .body-content {
         padding: 0;
+        margin-top: 60px;
     }
 }
