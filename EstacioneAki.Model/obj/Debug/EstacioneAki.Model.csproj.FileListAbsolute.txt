@@ -1,0 +1,4 @@
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Model\bin\Debug\EstacioneAki.Model.dll
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Model\bin\Debug\EstacioneAki.Model.pdb
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Model\obj\Debug\EstacioneAki.Model.dll
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Model\obj\Debug\EstacioneAki.Model.pdb

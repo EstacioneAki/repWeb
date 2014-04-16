@@ -1,0 +1,9 @@
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\bin\Debug\EstacioneAki.Core.dll
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\bin\Debug\EstacioneAki.Core.pdb
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\obj\Debug\EstacioneAki.Core.dll
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\obj\Debug\EstacioneAki.Core.pdb
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\bin\Debug\EstacioneAki.Dal.dll
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\bin\Debug\EstacioneAki.Model.dll
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\bin\Debug\EstacioneAki.Dal.pdb
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\bin\Debug\EstacioneAki.Model.pdb
+D:\Users\Adson\Documents\GitHub\repWeb\EstacioneAki\EstacioneAki.Core\obj\Debug\EstacioneAki.Core.csprojResolveAssemblyReference.cache
